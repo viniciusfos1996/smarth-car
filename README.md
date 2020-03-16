@@ -51,6 +51,7 @@ assim, todos teram acesso e visibilidade ao c√≥digo parceiro para que a integra√
 - Shined
 - Fernando Lucas
 - Eric Almeida
+- Vinicius Manoel
 
 ## Devs
 
