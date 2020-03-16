@@ -33,6 +33,12 @@ Como o projeto sera composto por código de varias partes, crie seus modulos em
 
 assim, todos teram acesso e visibilidade ao código parceiro para que a integração seja facilidata
 
+## Branchs
+
+- 'master' para código testado e validado
+- 'dev' para código em desenvolvimento
+- Caso seja necessário, crie outra branch para você
+
 ## Professor responsável
 
 - Prof. Maxwell Rodrigues - maxwell.rodrigues@prof.una.br
