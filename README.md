@@ -12,7 +12,7 @@ Tem como objetivo o desenvolvimento de um carrinho de controle remoto autônomo 
 
 ## Dependências:
 
-- Python 3.x.x
+- Python 3.8.x
 - pip 18.x.x
 
 ## Para installar as dependências
